@@ -44,3 +44,14 @@
 - Visuals: Include visualizations such as correlation heatmaps, distribution plots, and model performance charts to support the findings.
 - Limitations: The analysis assumed that the data was accurately recorded by the smartwatch sensors. Any sensor errors could affect the model's accuracy. The dataset's diversity in terms of user demographics and activity types was not considered, which might limit the model's generalizability.
 - Potential for Further Exploration: Further exploration could involve incorporating more features, such as sleep patterns and diet data, to enhance prediction accuracy. Investigate the impact of different machine learning algorithms and hyperparameter tuning to improve model performance.
+
+# Smart Watch Data Analysis
+
+## Overview
+This repository contains the analysis of smartwatch data to predict activity types and calories burned.
+
+## HTML Report
+The detailed analysis can be viewed by downloading or viewing the raw HTML report:
+- [View Raw HTML Report](https://github.com/rbsvd/SmartWatch-Data-Analysis/raw/main/SmartWatchDataAnalysis.html)
+
+Note: The file is too large to be rendered directly on GitHub, but you can download and open it in your browser.
