@@ -1,4 +1,4 @@
-# Smart Watch Data Analysis
+# Title of the Project: Smart Watch Data Analysis
 
 ## Objective and Scope
 **Objective**: The goal of this project is to analyze smartwatch data to predict activity types and calories burned using various machine learning models. The specific objectives are:
@@ -49,6 +49,17 @@
 
 ## Overview
 This repository contains the analysis of smartwatch data to predict activity types and calories burned.
+
+## Environment Setup
+
+To ensure the project runs smoothly, please follow the steps below to set up the environment:
+
+### Prerequisites
+
+- Operating System: Windows 11
+- Programming Language: Python 3.8
+- Dependencies: Pandas,Numpy,Matplotlib,Scikit-learn etc.
+- Environment: Jupyter Notebook
 
 ## HTML Report
 The detailed analysis can be viewed by downloading or viewing the raw HTML report:
