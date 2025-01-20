@@ -30,8 +30,8 @@
   - Classification Report indicated balanced precision and recall across activity types.
 
 - **Stacking Regressor**:
-  - Mean Squared Error (MSE): [Insert MSE value]
-  - R-squared (R²): [Insert R² value]
+  - Mean Squared Error (MSE): 133.850324...
+  - R-squared (R²): 0.80388410...
   - Predicted Calories Burned showed consistent and accurate predictions.
 
 ## Recommendations
