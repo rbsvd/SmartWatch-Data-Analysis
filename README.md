@@ -64,5 +64,6 @@ To ensure the project runs smoothly, please follow the steps below to set up the
 ## HTML Report
 The detailed analysis can be viewed by downloading or viewing the raw HTML report:
 - [View Raw HTML Report](https://github.com/rbsvd/SmartWatch-Data-Analysis/raw/main/SmartWatchDataAnalysis.html)
+- [View the code in python fie format](https://drive.google.com/file/d/1Bfu6gQwXuWdMspIG_Qm4XsWupydNbKJe/view?usp=drive_link)
 
 Note: The file is too large to be rendered directly on GitHub, but you can download and open it in your browser.
