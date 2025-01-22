@@ -57,7 +57,7 @@ To ensure the project runs smoothly, please follow the steps below to set up the
 ### Prerequisites
 
 - Operating System: Windows 11
-- Programming Language: Python 3.8
+- Programming Language: Python 3.12.6
 - Dependencies: Pandas,Numpy,Matplotlib,Scikit-learn etc.
 - Environment: Jupyter Notebook
 
